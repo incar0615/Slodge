@@ -1,0 +1,26 @@
+﻿2D Project/Assembly-CSharp-Editor-vs.csproj
+2D Project/Assembly-CSharp-Editor.csproj
+2D Project/Assembly-CSharp-vs.csproj
+2D Project/Assembly-CSharp.csproj
+2D Project/2D Project-csharp.sln
+2D Project/2D Project.sln
+2D Project/Assembly-CSharp-firstpass-vs.csproj
+2D Project/Assembly-CSharp-firstpass.csproj
+2D Project/.vs
+
+# UNITY #
+2D Project/Library
+2D Project/obj
+2D Project/Temp
+2D Project/AssetBundles
+
+#etc#
+launch.json
+Assembly-CSharp-Editor-firstpass.csproj
+2D Project/2D Project.csproj
+2D Project/2D Project.Editor.csproj
+
+2D Project/Library
+2D Project/Temp
+ProjectVersion.txt
+2D Project.sln
